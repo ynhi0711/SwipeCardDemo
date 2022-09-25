@@ -1,0 +1,2 @@
+rootProject.name = "swipr-android"
+include ':app'

@@ -1,1 +1,1 @@
-# BaseProject
+# Demo swipe card view android
